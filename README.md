@@ -8,7 +8,7 @@
 
 ## 🧾 About Me
 
-I'm an undergraduate student pursuing a BS in Data Science.  
+I'm an undergraduate student pursuing  BS in Data Science at  Indian Institute of Technology Madras.  
 My focus is on using code and data to solve practical problems, build efficient systems, and explore intelligent technologies.
 
 Selected for open-source programs like GirlScript Summer of Code and Open Source Connect India — continuously growing through real-world experience.
