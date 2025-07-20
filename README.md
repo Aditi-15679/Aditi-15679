@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Aditi
 
-<!--
-**Aditi-15679/Aditi-15679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS in Data Science  
+💻 Passionate about technology, learning, and building meaningful solutions  
+🌱 Currently focused on strengthening my skills in programming and data analysis
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧾 About Me
+
+I'm an undergraduate student pursuing a BS in Data Science.  
+My focus is on using code and data to solve practical problems, build efficient systems, and explore intelligent technologies.
+
+Selected for open-source programs like Google Summer Script of Code and Open Source Connect India — continuously growing through real-world experience.
+
+---
+
+## 🧰 Skills
+
+- Programming: Java, Python  
+- Version Control: Git & GitHub  
+- Currently Learning: Data Structures and Algorithms 
+
+---
+
+## 📌 Currently
+
+- 💻 Learning: DSA , Git workflows, clean code practices  
+- 🌱 Contributing: Google Summer Script of Code, Open Source Connect India!--
+
