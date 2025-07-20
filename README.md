@@ -11,7 +11,7 @@
 I'm an undergraduate student pursuing a BS in Data Science.  
 My focus is on using code and data to solve practical problems, build efficient systems, and explore intelligent technologies.
 
-Selected for open-source programs like Google Summer Script of Code and Open Source Connect India — continuously growing through real-world experience.
+Selected for open-source programs like GirlScript Summer of Code and Open Source Connect India — continuously growing through real-world experience.
 
 ---
 
@@ -26,5 +26,5 @@ Selected for open-source programs like Google Summer Script of Code and Open Sou
 ## 📌 Currently
 
 - 💻 Learning: DSA , Git workflows, clean code practices  
-- 🌱 Contributing: Google Summer Script of Code, Open Source Connect India!--
+- 🌱 Contributing: GirlScript Summer of Code, Open Source Connect India!--
 
