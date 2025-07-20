@@ -26,5 +26,5 @@ Selected for open-source programs like GirlScript Summer of Code and Open Source
 ## 📌 Currently
 
 - 💻 Learning: DSA , Git workflows, clean code practices  
-- 🌱 Contributing: GirlScript Summer of Code, Open Source Connect India!--
+- 🌱 Contributing: GirlScript Summer of Code, Open Source Connect India!
 
