@@ -1,30 +1,24 @@
-## Hi, I'm Aditi
+# 💫 About Me:
+Hi, I'm Aditi — a BS in Data Science student at IIT Madras passionate about Full Stack Development, Data Structures & Algorithms, AI, Machine Learning, and Open Source. I enjoy building projects, solving coding problems, exploring new technologies, and contributing to developer communities. Alongside development, I actively participate in open-source programs and mentoring opportunities that help me grow both technically and collaboratively. Currently focused on strengthening my problem-solving skills, development expertise, and building impactful real-world projects.
 
-🎓 B.Sc. in Data Science  
-💻 Passionate about technology, learning, and building meaningful solutions  
-🌱 Currently focused on strengthening my skills in programming and data analysis
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aditi-s15679) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditi15679@gmail.com) 
 
-## 🧾 About Me
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Aditi-15679&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Aditi-15679&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aditi-15679&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-I'm an undergraduate student pursuing a B.Sc. in Data Science at the Indian Institute of Technology Madras.  
-My focus is on using code and data to solve practical problems, build efficient systems, and explore intelligent technologies.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aditi-15679&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Selected for open-source programs like GirlScript Summer of Code and Open Source Connect India.  
-Continuously growing through real-world experience.
-
----
-
-## 🧰 Skills
-
-- Programming: Java, Python  
-- Version Control: Git & GitHub  
-- Currently learning: Data Structures and Algorithms
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Aditi-15679&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📌 Currently
-
-- 💻 Learning: DSA, Git workflows, clean code practices  
-- 🌱 Contributing: GirlScript Summer of Code, Open Source Connect India.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
