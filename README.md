@@ -22,13 +22,6 @@ Currently focused on strengthening problem-solving skills, system design fundame
 
 ---
 
-# 🚀 Projects
-
-- 🔹 **ResQNet** – AI-powered disaster response coordination system using real-time data and cloud integration  
-- 🔹 **EchoSpace** – Empathy-based AI memory archive using MongoDB + Google Cloud AI  
-- 🔹 More impactful projects in progress...
-
----
 
 # 📊 GitHub Stats
 
